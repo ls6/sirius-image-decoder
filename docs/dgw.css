@@ -1,0 +1,91 @@
+body {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-left: auto; 
+    margin-right: auto;
+    font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+    max-width: 800px;
+}
+
+pre {
+padding-top:	1.4ex;
+padding-bottom:	1ex;
+padding-left:	2ex;
+padding-right:	1ex;
+color: 		black;
+background: 	#fbfbfb;
+border-top:        1px solid #6A6A6A;
+border-bottom:     1px solid #6A6A6A;
+
+font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+pre.synopsis {
+    background: #ddefff;
+}
+
+pre.tclcode {
+    background: #ffefdf;
+}
+
+
+pre.tclout {
+    background: #efffff;
+}
+
+
+pre.tclerr {
+    background: #ffdfdf;
+}
+
+pre.std {
+    background: #fbfbfb;
+}
+
+code {
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-size: 0.9em;
+}
+
+blockquote {
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+pre.r {
+    background: #efffef;
+}
+
+div.sourceCode + pre {
+    background: #eeffff;
+}
+
+h1 {
+font-family:	sans-serif;
+font-size:	130%;
+background: 	transparent;
+text-align:	center;
+}
+
+p.author, p.date {
+font-family:	sans-serif;
+font-size:	110%;
+background: 	transparent;
+text-align:	center;
+}
+
+h3 {
+padding-top: 0.5em;
+font-family:	sans-serif;
+font-size:	105%;
+background: 	transparent;
+text-align:	left;
+}
+
+h2 {
+padding-top: 0.5em;
+margin-top: 	1em;
+font-family:	sans-serif;
+font-size:	120%;
+color:		#005A9C;
+text-align:	left;
+}
